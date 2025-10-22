@@ -1,10 +1,3 @@
-24D393G56|ativo|1|Nome
-8XJ72KQ91|ativo|0|Nome
-M5T84ZL20|ativo|0|Nome
-R9C61VJ88|ativo|0|Nome
-7NQ39BD42|ativo|0|Nome
-K3L58XM77|ativo|0|Nome
-Z1W96TP04|ativo|0|Nome
-H6E27YU63|ativo|0|Nome
-B4A90CN15|ativo|0|Nome
-F2G73RW86|ativo|0|Nome
+24D393G56|ativo
+8XJ72KQ91|ativo
+MST84ZL20|ativo
