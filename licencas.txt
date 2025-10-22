@@ -1,4 +1,4 @@
-24D393G56|ativo|0|Nome
+24D393G56|ativo|1|Nome
 8XJ72KQ91|ativo|0|Nome
 M5T84ZL20|ativo|0|Nome
 R9C61VJ88|ativo|0|Nome
