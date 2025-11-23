@@ -1,2 +1,2 @@
 X1A2B3C4D5|usado|30
-Y6E7F8G9H0|bloqueado|1
+Y6E7F8G9H0|ativo|1
