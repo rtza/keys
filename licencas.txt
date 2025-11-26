@@ -7,4 +7,4 @@ U7V8W9X0Y1|bloqueado|30
 Z2A3B4C5D6|bloqueado|30
 E7F8G9H0I1|bloqueado|30
 M2N3O4P5Q6|bloqueado|30
-R7S8T9U0V1|bloqueado|30
+R7S8T9U0V1|ativo|30
