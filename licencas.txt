@@ -1,4 +1,4 @@
-A1B2C3D4E5|usado|30
+A1B2C3D4E5|ativo|30
 J7K8L9M0N1|bloqueado|30
 P2Q3R4S5T6|bloqueado|30
 U7V8W9X0Y1|bloqueado|30
