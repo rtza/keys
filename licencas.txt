@@ -5,7 +5,7 @@ AS56DF78GH|bloqueado|0|null
 ZX90CV12BN|bloqueado|0|null
 PL34OK56MN|bloqueado|0|null
 RT78YU90JK|bloqueado|0|null
-AB12CD34EF|ativo|30|null
+AB12CD34EF|usado|30|46417573975452
 ZX98YU76TR|ativo|60|null
 LM45PQ67RS|ativo|90|null
 GH12JK34MN|ativo|45|null
