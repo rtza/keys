@@ -7,3 +7,4 @@ E7F8G9H0I1|bloqueado|30
 M2N3O4P5Q6|usado|30
 R7S8T9U0V1|usado|30
 X1Y2Z4A4B5|ativo|30|null
+X1YZ23A4B5|ativo|30|null
