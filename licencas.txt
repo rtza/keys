@@ -9,4 +9,4 @@ F6G7H8I9J0|ativo|null
 L1M2N3O4P5|ativo|null
 Q6R7S8T9U0|ativo|null
 V1W2X3Y4Z5|ativo|null
-Z6Y7X8W9V0|ativo|null
+Z6Y7X8W9V0|usado|46417573975452
