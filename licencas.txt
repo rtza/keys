@@ -5,3 +5,4 @@ ZX98YU76TR|ativo|60|null
 LM45PQ67RS|ativo|90|null
 GH12JK34MN|ativo|45|null
 VW56XY78ZA|ativo|15|null
+VW56XY78ZA|ativo|15|null
