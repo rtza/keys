@@ -8,5 +8,5 @@ H2G3F4D5S6|bloqueado|30
 A7S8D9F0G1|bloqueado|30
 P2O3I4U5Y6|bloqueado|30
 T7R8E9W0Q1|bloqueado|30
-L2K3J4H5G6|bloqueado|30
-B7V8C9X0Z1|ativo|1
+L2K3J4H5G6|ativo|1
+B7V8C9X0Z1|usado|1
