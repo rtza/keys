@@ -7,7 +7,7 @@ N7M8K9L0J1|bloqueado|30
 H2G3F4D5S6|bloqueado|30
 A7S8D9F0G1|bloqueado|30
 P2O3I4U5Y6|bloqueado|30
-T7R8E9W0Q1|bloqueado|30
+T7R8E9W0Q1|ativo|2
 CHAVE123|ativo|5|minutos
 CHAVE456|ativo|1|minutos
 CHAVE789|ativo|3|dias
