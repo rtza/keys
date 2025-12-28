@@ -6,7 +6,7 @@ Z2X3C4V5B6|bloqueado|30
 N7M8K9L0J1|bloqueado|30
 H2G3F4D5S6|bloqueado|30
 A7S8D9F0G1|bloqueado|30
-P2O3I4U5Y6|bloqueado|30
+P2O3I4U5Y6|ativo|1
 T7R8E9W0Q1|ativo|5|minutos
 TRIAL123|trial|5|minutos
 TRIAL456|trial|5|minutos
