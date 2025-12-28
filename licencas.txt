@@ -12,5 +12,5 @@ CHAVE123|ativo|5|minutos
 CHAVE456|usado|2|minutos
 CHAVE789|ativo|3|dias
 TRIAL123|trial|5|minutos
-TRIAL456|trial|15|minutos
+TRIAL456|trial|1|minutos
 
