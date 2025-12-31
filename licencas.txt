@@ -8,5 +8,4 @@ H2G3F4D5S6|bloqueado|30
 A7S8D9F0G1|bloqueado|30
 MEUPCTEST|ativo|30
 T7R8E9W0Q1|ativo|5|minutos
-TRIAL1A8|trial|10|minutos
 TRIAL456|trial|5|minutos
