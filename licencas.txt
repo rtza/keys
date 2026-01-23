@@ -6,6 +6,6 @@ Z2X3C4V5B6|bloqueado|30
 N7M8K9L0J1|bloqueado|30
 H2G3F4D5S6|bloqueado|30
 A7S8D9F0G1|bloqueado|30
-MEUPCTEST|bloqueado|30
+MEUPCTEST|ativo|30
 T7R8E9W0Q1|ativo|5|minutos
 TRIAL456|trial|5|minutos
